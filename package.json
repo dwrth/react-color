@@ -1,6 +1,6 @@
 {
   "name": "react-color",
-  "version": "2.19.3",
+  "version": "2.19.4",
   "description": "A Collection of Color Pickers from Sketch, Photoshop, Chrome & more",
   "main": "lib/index.js",
   "module": "es/index.js",
@@ -44,7 +44,7 @@
     "popup"
   ],
   "dependencies": {
-    "@icons/material": "^0.2.4",
+    "@icons/material": "^0.4.1",
     "lodash": "^4.17.15",
     "lodash-es": "^4.17.15",
     "material-colors": "^1.2.1",
